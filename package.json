@@ -1,0 +1,30 @@
+{
+  "name": "custom-mail-sender",
+  "version": "1.0.0",
+  "types": "module",
+  "description": "A Node.js script for sending HTML emails using Nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node send-mail.js"
+  },
+  "keywords": [
+    "email",
+    "email-sender",
+    "nodemailer",
+    "send-email",
+    "smtp",
+    "gmail",
+    "html-email",
+    "custom-email",
+    "nodejs",
+    "email-automation",
+    "mailer"
+  ],
+  "author": "Tom ANDRÉ",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  }
+}

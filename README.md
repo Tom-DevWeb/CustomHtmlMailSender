@@ -48,6 +48,9 @@ If everything is configured correctly, an email will be sent to the specified re
 ## Documentation
 
 [Config Gmail connection](https://medium.com/@y.mehnati_49486/how-to-send-an-email-from-your-gmail-account-with-nodemailer-837bf09a7628)
+
 [HTML Email Development Best Practices](https://www.emailonacid.com/blog/article/email-development/email-development-best-practices-2/)
+
 [Nodemailer](https://nodemailer.com/)
+
 [Testing spam email](https://www.mail-tester.com/)
